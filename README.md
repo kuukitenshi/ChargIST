@@ -11,7 +11,12 @@ Project developed by:
 - 112269 - Laura Cunha
 - 112270 - Rodrigo Correia
 
-
+ ChargIST is a mobile application for Android, that explores several key aspects of mobile development, including location
+ awareness, efficient use of limited resources, and social behavior. It provides mobile support for electric vehicles (EVs)
+ and their owners, allowing users to find EV chargers in their surroundings, view information about the chargers and their
+ capabilities, check their availability, and access additional information about nearby services such as air/water stations,
+ restrooms, food options, and more
+ 
 ## Setup
 
 To test the application, you need to:
@@ -33,7 +38,8 @@ The *database is already set up*. However, if you want to `configure your own AP
 
 - Copy the `SQL scripts` from the "`scripts_supabase`" folder (located in the root of the project) into the `Supabase SQL editor` and execute them, as shown in the image:
 
-![](images/supa_scripts.png)
+![]
+(images/supa_scripts.png)
 
 
 

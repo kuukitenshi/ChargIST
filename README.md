@@ -11,6 +11,7 @@ Project developed by:
 - 112269 - Laura Cunha
 - 112270 - Rodrigo Correia
 
+# Project
  ChargIST is a mobile application for Android, that explores several key aspects of mobile development, including location
  awareness, efficient use of limited resources, and social behavior. It provides mobile support for electric vehicles (EVs)
  and their owners, allowing users to find EV chargers in their surroundings, view information about the chargers and their

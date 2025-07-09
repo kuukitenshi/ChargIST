@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">ChargIST</string>
+
+    <!-- login -->
+    <string name="username_field">Nome de utilizador</string>
+    <string name="password_field">Palavra-passe</string>
+    <string name="login_button">Iniciar sessão</string>
+    <string name="login_button_loading">A iniciar sessão…</string>
+    <string name="register_button">Registar</string>
+    <string name="register_button_loading">A registar…</string>
+    <string name="continue_as_guest">Continuar como convidado</string>
+    <string name="new_here">Novo por aqui? Crie uma conta</string>
+    <string name="already_acc">Já tenho uma conta!</string>
+    <string name="no_account_message">Ainda não tens conta.</string>
+
+    <!-- profile -->
+    <string name="no_favorites">Ainda não tem estações favoritas.</string>
+    <string name="no_favorites_desc">Sem Favoritos</string>
+
+    <!-- map -->
+    <string name="profile_icon_desc">Perfil</string>
+    <string name="center_loc_desc">Centrar na minha localização</string>
+    <string name="add_station_desc">Adicionar Estação</string>
+    <string name="search_desc">Pesquisar</string>
+    <string name="search_address">Pesquisar endereço</string>
+    <string name="cancel_search_desc">Cancelar pesquisa</string>
+    <string name="available_chargers">Carregadores Disponíveis</string>
+    <string name="charger_stations">Estações de Carregamento</string>
+    <string name="no_stations_with_available_chargers">Não há estações que atendam a esses requisitos.</string>
+    <string name="station">Estação de Carregamento</string>
+    <string name="delete_station">Apagar Estação</string>
+    <string name="delete_station_confirmation">Queres Apagar esta estação?</string>
+
+    <!-- filter/sort -->
+    <string name="filter">Filtrar</string>
+    <string name="sort">Ordenar por</string>
+
+    <string name="filter_option_none">Nenhum</string>
+    <string name="filter_option_all">Todos</string>
+    <string name="filter_option_type">Tipo de Carregador</string>
+    <string name="filter_option_power">Potência</string>
+    <string name="filter_option_nearby_services">Serviços Próximos</string>
+    <string name="filter_option_price">Preço</string>
+    <string name="filter_option_curr_av">Disponibilidade Atual</string>
+    <string name="filter_option_dist">Distância</string>
+    <string name="filter_option_tt">Tempo de Viagem</string>
+    <string name="filter_option_charg_speed">Velocidade de Carregamento</string>
+    <string name="filter_option_pay">Método de Pagamento</string>
+
+    <string name="only_stations_available">Apenas estações com carregadores disponíveis</string>
+    <string name="charger_type">Tipo de carregador</string>
+    <string name="charger_power">Potência do carregador</string>
+    <string name="price_range">Faixa de preço (€/kWh)</string>
+    <string name="payment_methods">Métodos de pagamento</string>
+    <string name="nearby_services">Serviços próximos</string>
+    <string name="maximum_distance">Distância máxima (km)</string>
+    <string name="maximum_travel_time">Tempo máximo de viagem (min)</string>
+
+    <string name="filters_title">Filtros</string>
+    <string name="clear_filters">Limpar filtros</string>
+    <string name="apply_filters">Aplicar filtros</string>
+
+    <!-- station details -->
+    <string name="station_photo_desc">foto</string>
+    <string name="coord">Coordenadas</string>
+    <string name="toggle_fav">Alternar favorito</string>
+    <string name="payment_meth">Métodos de Pagamento</string>
+    <string name="chargers">Carregadores</string>
+    <string name="no_chargers_on_station">Não há carregadores nesta estação!</string>
+    <string name="view_all_reviews">Ver todas as avaliações</string>
+    <string name="no_payment_methods_available">Nenhum método de pagamento disponível!</string>
+
+    <!-- add station -->
+    <string name="back">Voltar</string>
+    <string name="next">Seguinte</string>
+    <string name="station_name">Nome da Estação</string>
+    <string name="selected">Selecionado</string>
+    <string name="add_chargers">Adicionar Carregadores</string>
+    <string name="add_charger">Adicionar Carregador</string>
+    <string name="add_one_charger">Adicione pelo menos um carregador</string>
+    <string name="already_exits_charger_type">Este tipo de carregador já existe!</string>
+    <string name="at_least_one_charger">Adicione pelo menos um carregador</string>
+    <string name="station_submitted">Estação submetida!</string>
+    <string name="confirm_save">Confirmar e Guardar</string>
+    <string name="select_pay_meth">Selecionar Métodos de Pagamento</string>
+
+    <!-- components - profile -->
+    <string name="edit_pfp">Editar Foto de Perfil</string>
+    <string name="take_photo">Tirar Foto</string>
+    <string name="pick_gallery">Escolher da Galeria</string>
+    <string name="cancel">Cancelar</string>
+    <string name="edit_profile">Editar Perfil</string>
+    <string name="name">Nome</string>
+    <string name="exceed_size_name">O nome não pode estar vazio nem exceder 12 caracteres!</string>
+    <string name="save">Guardar</string>
+    <string name="confirm_logout">Confirmar Terminar Sessão</string>
+    <string name="confirm_logout_text">Deseja terminar sessão?</string>
+    <string name="yes">Sim</string>
+    <string name="profile_img_desc">Imagem de Perfil</string>
+    <string name="edit_img_desc">Editar Imagem</string>
+    <string name="create_acc">Criar Conta</string>
+    <string name="logout">Terminar Sessão</string>
+
+    <!-- reviews -->
+    <string name="write_review">Escrever Avaliação</string>
+    <string name="write_review_text">Por favor escreva a sua avaliação</string>
+    <string name="ok">Ok</string>
+    <string name="review_sent">Avaliação Enviada</string>
+    <string name="review_sent_text">A sua avaliação foi submetida com sucesso!</string>
+    <string name="reviews">Avaliações</string>
+    <string name="star_desc">Estrela</string>
+    <string name="translate" translatable="false">Traduzir</string>
+    <string name="orignal" translatable="false">Original</string>
+
+    <string name="rating_review">Classificações e Avaliações</string>
+    <string name="no_reviews">Sem avaliações ainda.</string>
+
+    <!-- utils - station -->
+    <string name="available">disponível</string>
+    <string name="report_broken">Reportar avaria</string>
+    <string name="confirm_report">Confirmar Reporte</string>
+    <string name="report_issue_text">Deseja reportar um problema neste carregador?</string>
+    <string name="open_map_desc">Abrir Mapa</string>
+    <string name="no_coord_av">Sem coordenadas disponíveis.</string>
+    <string name="pay_meth_desc">Ícone de Método de Pagamento</string>
+    <string name="see_station_details_desc">Ver detalhes da estação</string>
+    <string name="pay_meth_icon_desc">Ícone do Método de Pagamento</string>
+
+    <!-- utils -->
+    <string name="selected_photo">Foto Selecionada</string>
+    <string name="location_denied">Permissão de localização negada</string>
+    <string name="select_loc">Selecionar Localização</string>
+    <string name="choose_loc_meth">Escolher Método de Localização</string>
+    <string name="use_curr_loc">Usar Localização Atual</string>
+    <string name="enter_addr">Inserir Endereço Manualmente</string>
+    <string name="done">Concluído</string>
+    <string name="loc_not_av">Localização não disponível</string>
+    <string name="pass_error">A palavra-passe deve ter pelo menos 8 caracteres, incluindo 1 letra maiúscula, 1 número e 1 símbolo.</string>
+    <string name="new_pass">Nova Palavra-passe</string>
+    <string name="confirm_pass">Confirmar Palavra-passe</string>
+    <string name="pass_not_match">As palavras-passe não coincidem!</string>
+
+    <!-- chargers -->
+    <string name="confirm">Confirmar</string>
+    <string name="station_img_desc">Imagem da Estação</string>
+    <string name="location">Localização</string>
+    <string name="types">tipos</string>
+    <string name="plug">tomada</string>
+    <string name="charger">Carregador</string>
+    <string name="plug_capitalize">Tomada</string>
+    <string name="power">Potência</string>
+    <string name="count">Contagem</string>
+    <string name="amount">Quantidade</string>
+    <string name="plug_type">Tipo de Tomada</string>
+    <string name="free">Livre</string>
+    <string name="occupied">Ocupado</string>
+    <string name="report_issue">Reportar Problema</string>
+    <string name="select_issue">Selecionar o problema:</string>
+    <string name="report_repaired">Reportar como reparado</string>
+    <string name="or"> ou </string>
+    <string name="submit">Submeter</string>
+    <string name="add_charger_details">Adicionar Detalhes do Carregador</string>
+    <string name="edit_charger_details">Editar Detalhes do Cargador</string>
+    <string name="reduce_price">Reduzir preço</string>
+    <string name="increase_price">Aumentar preço</string>
+    <string name="report_submitted">Relatório enviado</string>
+
+    <!-- steps -->
+    <string name="station_info">Informações da Estação</string>
+    <string name="charger_details">Detalhes do Carregador</string>
+    <string name="confirm_station_details">Confirmar Detalhes da Estação</string>
+    <string name="station_img">Imagem da Estação</string>
+    <string name="selected_loc">Localização Selecionada</string>
+    <string name="payment_accepted">Métodos de Pagamento Aceites</string>
+    <string name="delete_mode">Modo de Eliminação</string>
+    <string name="locate_here">Localizar aqui</string>
+    <string name="availability">Disponibilidade</string>
+    <string name="loading_bundle_details">A carregar detalhes do conjunto de carregadores…</string>
+    <string name="edit_station">Editar Estação</string>
+    <string name="edit_icon">Editar Ícone</string>
+    <string name="dismiss_button">Cancelar</string>
+    <string name="limited_perms">Permissão limitada concedida, precisão do mapa será reduzida</string>
+    <string name="no_perms">Sem permissões concedidas, não é possível mostrar a localização no mapa</string>
+    <string name="delete">Remover</string>
+
+    <!-- enums -->
+    <string name="fast">RÁPIDO</string>
+    <string name="medium">MÉDIO</string>
+    <string name="slow">LENTO</string>
+    <string name="fine">Em boas condições</string>
+    <string name="vandalized">Vandalizado</string>
+    <string name="not_charging">Não está a carregar</string>
+    <string name="damaged">Danificado</string>
+    <string name="broken">Avariado</string>
+    <string name="coffee_shop">Café</string>
+
+    <string name="restaurant">Restaurante</string>
+    <string name="bathroom">Casa de banho</string>
+    <string name="car_wash">Lavagem de carros</string>
+    <string name="gas_station">Posto de combustível</string>
+    <string name="mobility_rental">Aluguer de mobilidade</string>
+    <string name="supermarket">Supermercado</string>
+    <string name="atm">Multibanco</string>
+    <string name="pharmacy">Farmácia</string>
+    <string name="wifi_zone">Zona Wi-Fi</string>
+    <string name="playground">Parque infantil</string>
+    <string name="library">Biblioteca</string>
+
+    <string name="payment_cash">Dinheiro</string>
+    <string name="payment_mb_way" translatable="false">MB Way</string>
+    <string name="payment_google_pay" translatable="false">Google Pay</string>
+    <string name="payment_visa" translatable="false">Visa</string>
+    <string name="payment_mastercard" translatable="false">Mastercard</string>
+
+    <string name="price_sort">Preço</string>
+    <string name="availability_sort">Disponibilidade</string>
+    <string name="distance_sort">Distância das estações</string>
+    <string name="power_sort">Velocidade do carregador</string>
+    <string name="travel_time_sort">Tempo de viagem</string>
+
+    <!--    nearby-->
+    <string name="nearby">Serviços Próximos</string>
+    <string name="no_nearby_services_available">Nenhum serviço próximo disponível.</string>
+    <string name="nearby_service_desc">Ícone do serviço próximo.</string>
+
+    <string name="permission_denied">Permissão negada</string>
+    <string name="review_requires_account">¡Necesitas una cuenta para hacer una reseña!</string>
+    <string name="duplicate_charger_bundle">Já existe um conjunto com esse tipo e potência.</string>
+
+    <string name="error_couldnt_login">Não foi possível fazer login</string>
+    <string name="error_change_name">Falha ao alterar o nome</string>
+    <string name="error_change_picture">Falha ao alterar a foto de perfil</string>
+    <string name="favorite_stations_title">Estações favoritas</string>
+    <string name="error_refresh_session">Não foi possível entrar na conta salva</string>
+
+    <string name="error_add_station_img">Falha ao adicionar foto da estação!</string>
+    <string name="error_edit_station_img">Falha ao alterar foto da estação!</string>
+    <string name="loading">Carregando…</string>
+
+    <string name="failed_change_status">Falha ao alterar o estado do carregador</string>
+    <string name="failed_report_issue">Falha ao reportar problema do carregador</string>
+    <string name="failed_edit_station">Falha ao editar estação</string>
+    <string name="failed_change_name">Falha ao alterar o nome</string>
+    <string name="failed_submit_review">Falha ao enviar a avaliação</string>
+    <string name="failed_add_to_favorites">Falha ao adicionar aos favoritos</string>
+    <string name="station_created">Estação criada</string>
+    <string name="failed_create_station">Falha ao criar estação</string>
+    <string name="load_more">Carregar mais</string>
+
+</resources>

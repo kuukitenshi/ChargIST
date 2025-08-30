@@ -6,10 +6,7 @@
 
 Project developed by:
 
-**Group 02**
-- 112265 - Daniela Camarinha
-- 112269 - Laura Cunha
-- 112270 - Rodrigo Correia
+**Group 02**: Daniela, Laura, Rodrigo
 
 # Project
  ChargIST is a mobile application for Android, that explores several key aspects of mobile development, including location
